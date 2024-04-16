@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science.!!
 - 🫡 That's Great, isn't that..!
 - 💞️ I’m looking to collaborate on Mozilla Club  
-- 📫 How to reach me, kcsapkal28@gmailc.com
+- 📫 How to reach me, kcsapkal28@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Numpy is created using c++.!!
 
